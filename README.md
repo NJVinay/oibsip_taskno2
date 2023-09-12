@@ -1,2 +1,2 @@
 # oibsip_taskno2
- This is task number 2 of the oasis infobyte online internship (march p2 batch)
+This is a task (number 2) - [creation of NUMBER GUESSING GAME] of oasis infobyte internship.
