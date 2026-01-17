@@ -1,6 +1,5 @@
 # Number Guessing Game
 
-**GitHub Repository**: https://github.com/NJVinay/oibsip_taskno2
 
 This is Task 2 of the Oasis Infobyte Internship - Number Guessing Game
 
